@@ -5,3 +5,5 @@ Commit #2 during squash aactivity
 Commit #3 during squash aactivity
 
 Commit #4 during squash aactivity
+
+Commit #5 during squash aactivity
